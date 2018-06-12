@@ -2,9 +2,7 @@
 //
 
 import java.security.MessageDigest;
-import java.util.function.Consumer;
 
-import static java.lang.System.in;
 
 public class StringUtil {
 //Applies Sha256 to a string and returns the result.
